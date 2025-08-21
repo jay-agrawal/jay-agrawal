@@ -1,6 +1,6 @@
 <!-- Profile Picture & Title -->
 <h1 align="center">Hi, I'm Jay Agrawal 👋</h1>
-<p align="center">A passionate developer and open-source enthusiast.</p>
+<p align="center">A passionate developer and technology enthusiast.</p>
 
 <!-- Badges -->
 <p align="center">
@@ -24,8 +24,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jay-agrawal&theme=radical" alt="GitHub Streak" />
 </p>
 
----
-
 ## 🚀 About Me
 - 🔭 I’m currently working as an iOS Engineer @hotstar.
 - 🌱 I’m learning and exploring GoLang.
@@ -34,20 +32,14 @@
 ## 🛠️ Skills & Tools
 <table>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="Python" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=fff" alt="Go" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" alt="Node.js" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" alt="Docker" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=fff" alt="AWS" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/iOS-5AC8FA?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Ads-FF9900?style=for-the-badge&logo=google&logoColor=white" alt="Ads" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Google%20Ads-FF9900?style=for-the-badge&logo=google&logoColor=white" alt="Google Ads" /></td>
   </tr>
 </table>
 
----
 
 ## 📫 Connect with Me
 <p align="center">
