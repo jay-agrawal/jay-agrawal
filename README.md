@@ -1,7 +1,4 @@
 <!-- Profile Picture & Title -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/jay-agrawal" alt="Jay Agrawal" width="150" style="border-radius:50%;" />
-</p>
 <h1 align="center">Hi, I'm Jay Agrawal 👋</h1>
 <p align="center">A passionate developer and open-source enthusiast.</p>
 
