@@ -46,7 +46,7 @@
   <a href="https://linkedin.com/in/ijayesh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn" />
   </a>
-  <a href="jay.agrawal@outlook.com">
+  <a href="mailto:jay.agrawal@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff" alt="Email" />
   </a>
 </p>
