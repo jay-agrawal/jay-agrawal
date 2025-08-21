@@ -2,28 +2,6 @@
 <h1 align="center">Hi, I'm Jay Agrawal 👋</h1>
 <p align="center">A passionate developer and technology enthusiast.</p>
 
-<!-- Badges -->
-<p align="center">
-  <a href="https://github.com/jay-agrawal">
-    <img src="https://img.shields.io/github/followers/jay-agrawal?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/jay-agrawal?tab=repositories">
-    <img src="https://img.shields.io/github/repo-size/jay-agrawal/jay-agrawal?style=flat-square" alt="Repo Size" />
-  </a>
-  <a href="https://github.com/jay-agrawal?tab=stars">
-    <img src="https://img.shields.io/github/stars/jay-agrawal/jay-agrawal?style=social" alt="GitHub Stars" />
-  </a>
-</p>
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jay-agrawal&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-agrawal&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jay-agrawal&theme=radical" alt="GitHub Streak" />
-</p>
-
 ## 🚀 About Me
 - 🔭 I’m currently working as an iOS Engineer @hotstar.
 - 🌱 I’m learning and exploring GoLang.
