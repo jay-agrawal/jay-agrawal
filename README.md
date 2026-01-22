@@ -25,12 +25,91 @@
 
 <br/>
 
+<h3>💼 Professional Experience Highlights</h3>
+<table>
+  <tr>
+    <td align="center"><b>🎬 JioHotstar</b></td>
+    <td>Building world-class streaming experiences for millions of users</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🛒 Blinkit</b></td>
+    <td>Engineered high-performance quick-commerce mobile solutions</td>
+  </tr>
+</table>
+
+<br/>
+
+<h3>🎯 What I'm Currently Working On</h3>
+<p align="center">
+  🔨 Building scalable iOS architectures for streaming platforms<br/>
+  📱 Exploring SwiftUI and modern iOS development patterns<br/>
+  🚀 Learning GoLang for backend services and microservices<br/>
+  📚 Contributing to open-source iOS projects<br/>
+  ⚡ Optimizing app performance and user experience
+</p>
+
+<br/>
+
 <h3>🛠️ Engineering Stack</h3>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=swift,apple,go,git,idea,vscode,xd,figma&theme=light&perline=8" />
   </a>
 </p>
+
+<br/>
+
+<h3>🎯 Technical Expertise</h3>
+<table>
+  <tr>
+    <td><b>📱 iOS Development</b></td>
+    <td>Swift, SwiftUI, UIKit, Combine, Concurrency</td>
+  </tr>
+  <tr>
+    <td><b>🏗️ Architecture</b></td>
+    <td>MVVM, Clean Architecture, Modular Design</td>
+  </tr>
+  <tr>
+    <td><b>⚡ Performance</b></td>
+    <td>Memory Management, Performance Optimization, Instruments</td>
+  </tr>
+  <tr>
+    <td><b>🔧 Backend</b></td>
+    <td>GoLang, REST APIs, GraphQL</td>
+  </tr>
+  <tr>
+    <td><b>🛠️ Tools & CI/CD</b></td>
+    <td>Xcode, Git, Fastlane, Jenkins</td>
+  </tr>
+  <tr>
+    <td><b>🎨 Design</b></td>
+    <td>Figma, Adobe XD, UI/UX Principles</td>
+  </tr>
+</table>
+
+<br/>
+
+<h3>🚀 Featured Projects & Work</h3>
+<table>
+  <tr>
+    <td>
+      <b>🎬 Streaming Platform (JioHotstar)</b><br/>
+      <i>Large-scale video streaming application serving millions of users</i><br/>
+      • Built with Swift and SwiftUI<br/>
+      • Optimized for performance and scalability<br/>
+      • Implemented advanced caching and offline playback
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>🛒 Quick Commerce App (Blinkit)</b><br/>
+      <i>Real-time delivery platform with sub-10-minute delivery promise</i><br/>
+      • Developed critical user-facing features<br/>
+      • Optimized app launch time and user flows<br/>
+      • Enhanced order tracking and notifications
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -44,9 +123,21 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jay-agrawal&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
-<h3>🐍 Contribution Snake</h3>
+<h3>🐍 Contribution Activity</h3>
 <p>
   <img src="https://github.com/jay-agrawal/jay-agrawal/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+<br/>
+
+<h3>🤝 Let's Connect!</h3>
+<p align="center">
+  I'm always interested in discussing iOS development, mobile architecture, and new opportunities!<br/>
+  Feel free to reach out via <a href="https://linkedin.com/in/ijayesh">LinkedIn</a> or <a href="mailto:jay.agrawal@outlook.com">Email</a>.
+</p>
+
+<p align="center">
+  💼 <b>Open to:</b> Interesting iOS projects, technical collaborations, and speaking opportunities
 </p>
 
 <br/>
