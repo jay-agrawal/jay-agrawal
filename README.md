@@ -5,17 +5,6 @@
 
 <br/>
 
-<p>
-  <a href="https://linkedin.com/in/ijayesh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:jay.agrawal@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<br/>
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 
 <h3>🚀 About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h3>
@@ -36,17 +25,6 @@
     <td>Engineered high-performance quick-commerce mobile solutions</td>
   </tr>
 </table>
-
-<br/>
-
-<h3>🎯 What I'm Currently Working On</h3>
-<p align="center">
-  🔨 Building scalable iOS architectures for streaming platforms<br/>
-  📱 Exploring SwiftUI and modern iOS development patterns<br/>
-  🚀 Learning GoLang for backend services and microservices<br/>
-  📚 Contributing to open-source iOS projects<br/>
-  ⚡ Optimizing app performance and user experience
-</p>
 
 <br/>
 
@@ -89,43 +67,9 @@
 
 <br/>
 
-<h3>🚀 Featured Projects & Work</h3>
-<table>
-  <tr>
-    <td>
-      <b>🎬 Streaming Platform (JioHotstar)</b><br/>
-      <i>Large-scale video streaming application serving millions of users</i><br/>
-      • Built with Swift and SwiftUI<br/>
-      • Optimized for performance and scalability<br/>
-      • Implemented advanced caching and offline playback
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>🛒 Quick Commerce App (Blinkit)</b><br/>
-      <i>Real-time delivery platform with sub-10-minute delivery promise</i><br/>
-      • Developed critical user-facing features<br/>
-      • Optimized app launch time and user flows<br/>
-      • Enhanced order tracking and notifications
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <h3>📊 GitHub Analytics</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jay-agrawal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github" alt="Jay's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-agrawal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
-</p>
-
-<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jay-agrawal&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
-<h3>🐍 Contribution Activity</h3>
-<p>
-  <img src="https://github.com/jay-agrawal/jay-agrawal/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 <br/>
