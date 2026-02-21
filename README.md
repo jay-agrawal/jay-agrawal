@@ -24,13 +24,6 @@
 
 <br/>
 
-<h3>📊 GitHub Analytics</h3>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jay-agrawal&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
-<br/>
-
 <h3>🤝 Let's Connect!</h3>
 <p align="center">
   I'm always interested in discussing iOS development, mobile architecture, and new opportunities!<br/>
